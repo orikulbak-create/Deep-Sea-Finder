@@ -1,3 +1,12 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "title": "Test Video - Great White Shark",
+      "video_id": "dQw4w9WgXcQ",
+      "url": "https://youtu.be/dQw4w9WgXcQ",
+      "embed": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "date": "2026-03-23",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    }
+  ]
 }
