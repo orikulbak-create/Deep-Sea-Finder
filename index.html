@@ -33,6 +33,15 @@
   .feature-icon { font-size: 40px; margin-bottom: 16px; }
   .feature-card h3 { font-size: 18px; color: #00d4ff; margin-bottom: 10px; }
   .feature-card p { font-size: 14px; color: #8ab4d4; line-height: 1.6; }
+  .videos { padding: 60px 20px; max-width: 1000px; margin: 0 auto; }
+  .videos h2 { text-align: center; font-size: 32px; color: #00d4ff; margin-bottom: 40px; }
+  .video-grid { display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; }
+  .video-card { background: #071e38; border: 1px solid #0d3557; border-radius: 16px; overflow: hidden; width: 300px; }
+  .video-card iframe { width: 100%; height: 170px; border: none; display: block; }
+  .video-card .video-info { padding: 14px; }
+  .video-card .video-title { color: #e0f0ff; font-size: 14px; font-weight: 600; margin-bottom: 6px; line-height: 1.4; }
+  .video-card .video-date { color: #4a6a8a; font-size: 12px; }
+  .no-videos { text-align: center; color: #4a6a8a; padding: 40px; }
   footer { text-align: center; padding: 40px 20px; background: #020c1b; color: #4a6a8a; font-size: 14px; }
   footer a { color: #4a6a8a; margin: 0 12px; text-decoration: none; }
   footer a:hover { color: #00d4ff; }
@@ -69,6 +78,37 @@
       <div class="feature-card"><div class="feature-icon">🌊</div><h3>Deep Ocean</h3><p>We focus on creatures from the twilight zone, midnight zone, and hadal zone.</p></div>
     </div>
   </div>
+  <div class="videos">
+    <h2>Latest Videos</h2>
+    <div class="video-grid" id="videoGrid">
+      <p class="no-videos">Loading videos...</p>
+    </div>
+  </div>
+
+  <script>
+    fetch('videos.json?t=' + Date.now())
+      .then(r => r.json())
+      .then(data => {
+        const grid = document.getElementById('videoGrid');
+        if (!data.videos || data.videos.length === 0) {
+          grid.innerHTML = '<p class="no-videos">No videos yet — check back soon! 🌊</p>';
+          return;
+        }
+        grid.innerHTML = data.videos.map(v => `
+          <div class="video-card">
+            <iframe src="${v.embed}?controls=1&rel=0" allowfullscreen loading="lazy"></iframe>
+            <div class="video-info">
+              <div class="video-title">${v.title}</div>
+              <div class="video-date">${v.date}</div>
+            </div>
+          </div>
+        `).join('');
+      })
+      .catch(() => {
+        document.getElementById('videoGrid').innerHTML = '<p class="no-videos">Videos coming soon! 🌊</p>';
+      });
+  </script>
+
   <footer>
     <p>© 2026 Deep Sea Finder. All rights reserved.</p>
     <p style="margin-top: 12px;">
