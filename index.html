@@ -8,11 +8,11 @@
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { font-family: 'Segoe UI', Arial, sans-serif; background: #020c1b; color: #e0f0ff; }
   .hero { background: linear-gradient(180deg, #020c1b 0%, #0a2744 50%, #020c1b 100%); text-align: center; padding: 80px 20px 60px; position: relative; overflow: hidden; }
-  .hero::before { content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(ellipse at 50% 30%, rgba(0, 150, 255, 0.15) 0%, transparent 70%); }
+  .hero::before { content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(ellipse at 50% 30%, rgba(0, 150, 255, 0.15) 0%, transparent 70%); pointer-events: none; }
   .logo { font-size: 48px; margin-bottom: 10px; }
   .hero h1 { font-size: 42px; font-weight: 800; color: #00d4ff; margin-bottom: 16px; position: relative; }
   .hero p { font-size: 20px; color: #8ab4d4; max-width: 600px; margin: 0 auto 40px; position: relative; }
-  .social-links { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-bottom: 20px; }
+  .social-links { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-bottom: 20px; position: relative; z-index: 10; }
   .social-btn { display: inline-block; padding: 12px 28px; border-radius: 50px; font-weight: 700; font-size: 15px; text-decoration: none; transition: transform 0.2s, opacity 0.2s; }
   .social-btn:hover { transform: translateY(-2px); opacity: 0.9; }
   .btn-tiktok { background: #010101; color: white; border: 2px solid #333; }
