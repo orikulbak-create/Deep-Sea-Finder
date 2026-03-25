@@ -1,1 +1,28 @@
-{"videos": []}
+{
+  "videos": [
+    {
+      "title": "Coral Shrimp \u2014 Deep Sea Finder",
+      "video_id": "Q6qYku8hTVk",
+      "url": "https://youtu.be/Q6qYku8hTVk",
+      "embed": "https://www.youtube.com/embed/Q6qYku8hTVk",
+      "date": "2026-03-25",
+      "thumbnail": "https://img.youtube.com/vi/Q6qYku8hTVk/maxresdefault.jpg"
+    },
+    {
+      "title": "Test Video - Great White Shark",
+      "video_id": "test123",
+      "url": "https://youtu.be/test123",
+      "embed": "https://www.youtube.com/embed/test123",
+      "date": "2026-03-23",
+      "thumbnail": "https://img.youtube.com/vi/test123/maxresdefault.jpg"
+    },
+    {
+      "title": "Test Video - Great White Shark",
+      "video_id": "dQw4w9WgXcQ",
+      "url": "https://youtu.be/dQw4w9WgXcQ",
+      "embed": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "date": "2026-03-23",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
+    }
+  ]
+}
