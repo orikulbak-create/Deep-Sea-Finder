@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Zebra Shark \u2014 Deep Sea Finder",
+      "video_id": "yyxFnFa3ASU",
+      "url": "https://youtu.be/yyxFnFa3ASU",
+      "embed": "https://www.youtube.com/embed/yyxFnFa3ASU",
+      "date": "2026-03-26",
+      "thumbnail": "https://img.youtube.com/vi/yyxFnFa3ASU/maxresdefault.jpg"
+    },
+    {
       "title": "Wobbegong Shark \u2014 Deep Sea Finder",
       "video_id": "b9qBHVMZD3k",
       "url": "https://youtu.be/b9qBHVMZD3k",
