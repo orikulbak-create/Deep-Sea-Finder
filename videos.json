@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Octopus \u2014 Deep Sea Finder",
+      "video_id": "5lCTImkpmmo",
+      "url": "https://youtu.be/5lCTImkpmmo",
+      "embed": "https://www.youtube.com/embed/5lCTImkpmmo",
+      "date": "2026-03-27",
+      "thumbnail": "https://img.youtube.com/vi/5lCTImkpmmo/maxresdefault.jpg"
+    },
+    {
       "title": "Fur Seal \u2014 Deep Sea Finder",
       "video_id": "WwbzhW7g1jc",
       "url": "https://youtu.be/WwbzhW7g1jc",
