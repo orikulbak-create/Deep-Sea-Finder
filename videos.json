@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Crystal Jellyfish \u2014 Deep Sea Finder",
+      "video_id": "e67DJKByocQ",
+      "url": "https://youtu.be/e67DJKByocQ",
+      "embed": "https://www.youtube.com/embed/e67DJKByocQ",
+      "date": "2026-03-31",
+      "thumbnail": "https://img.youtube.com/vi/e67DJKByocQ/maxresdefault.jpg"
+    },
+    {
       "title": "Flatback Sea Turtle \u2014 Deep Sea Finder",
       "video_id": "gaxPoeDGKVI",
       "url": "https://youtu.be/gaxPoeDGKVI",
