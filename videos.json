@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 8 \u2014 Siphonophore | Deep Sea Finder",
+      "video_id": "V01eDvwLP4U",
+      "url": "https://youtu.be/V01eDvwLP4U",
+      "embed": "https://www.youtube.com/embed/V01eDvwLP4U",
+      "date": "2026-04-04",
+      "thumbnail": "https://img.youtube.com/vi/V01eDvwLP4U/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 7 \u2014 Giant Clam | Deep Sea Finder",
       "video_id": "xh-JdWgcEXY",
       "url": "https://youtu.be/xh-JdWgcEXY",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/Q6qYku8hTVk",
       "date": "2026-03-25",
       "thumbnail": "https://img.youtube.com/vi/Q6qYku8hTVk/maxresdefault.jpg"
-    },
-    {
-      "title": "Test Video - Great White Shark",
-      "video_id": "test123",
-      "url": "https://youtu.be/test123",
-      "embed": "https://www.youtube.com/embed/test123",
-      "date": "2026-03-23",
-      "thumbnail": "https://img.youtube.com/vi/test123/maxresdefault.jpg"
     }
   ]
 }
