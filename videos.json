@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 9 \u2014 Barrel Jellyfish | Deep Sea Finder",
+      "video_id": "DbeSduKgg7s",
+      "url": "https://youtu.be/DbeSduKgg7s",
+      "embed": "https://www.youtube.com/embed/DbeSduKgg7s",
+      "date": "2026-04-04",
+      "thumbnail": "https://img.youtube.com/vi/DbeSduKgg7s/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 8 \u2014 Siphonophore | Deep Sea Finder",
       "video_id": "V01eDvwLP4U",
       "url": "https://youtu.be/V01eDvwLP4U",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/Fxucfam0wY4",
       "date": "2026-03-25",
       "thumbnail": "https://img.youtube.com/vi/Fxucfam0wY4/maxresdefault.jpg"
-    },
-    {
-      "title": "Coral Shrimp \u2014 Deep Sea Finder",
-      "video_id": "Q6qYku8hTVk",
-      "url": "https://youtu.be/Q6qYku8hTVk",
-      "embed": "https://www.youtube.com/embed/Q6qYku8hTVk",
-      "date": "2026-03-25",
-      "thumbnail": "https://img.youtube.com/vi/Q6qYku8hTVk/maxresdefault.jpg"
     }
   ]
 }
