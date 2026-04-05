@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 11 \u2014 Dolphin Pod | Deep Sea Finder",
+      "video_id": "Acz7fvpPx3k",
+      "url": "https://youtu.be/Acz7fvpPx3k",
+      "embed": "https://www.youtube.com/embed/Acz7fvpPx3k",
+      "date": "2026-04-05",
+      "thumbnail": "https://img.youtube.com/vi/Acz7fvpPx3k/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 10 \u2014 Minke Whale | Deep Sea Finder",
       "video_id": "LOfy4T98eso",
       "url": "https://youtu.be/LOfy4T98eso",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/yyxFnFa3ASU",
       "date": "2026-03-26",
       "thumbnail": "https://img.youtube.com/vi/yyxFnFa3ASU/maxresdefault.jpg"
-    },
-    {
-      "title": "Wobbegong Shark \u2014 Deep Sea Finder",
-      "video_id": "b9qBHVMZD3k",
-      "url": "https://youtu.be/b9qBHVMZD3k",
-      "embed": "https://www.youtube.com/embed/b9qBHVMZD3k",
-      "date": "2026-03-26",
-      "thumbnail": "https://img.youtube.com/vi/b9qBHVMZD3k/maxresdefault.jpg"
     }
   ]
 }
