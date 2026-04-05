@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 10 \u2014 Atlantic Cod | Deep Sea Finder",
+      "video_id": "czX1tk28KAM",
+      "url": "https://youtu.be/czX1tk28KAM",
+      "embed": "https://www.youtube.com/embed/czX1tk28KAM",
+      "date": "2026-04-05",
+      "thumbnail": "https://img.youtube.com/vi/czX1tk28KAM/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 11 \u2014 Dolphin Pod | Deep Sea Finder",
       "video_id": "Acz7fvpPx3k",
       "url": "https://youtu.be/Acz7fvpPx3k",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/WwbzhW7g1jc",
       "date": "2026-03-27",
       "thumbnail": "https://img.youtube.com/vi/WwbzhW7g1jc/maxresdefault.jpg"
-    },
-    {
-      "title": "Zebra Shark \u2014 Deep Sea Finder",
-      "video_id": "yyxFnFa3ASU",
-      "url": "https://youtu.be/yyxFnFa3ASU",
-      "embed": "https://www.youtube.com/embed/yyxFnFa3ASU",
-      "date": "2026-03-26",
-      "thumbnail": "https://img.youtube.com/vi/yyxFnFa3ASU/maxresdefault.jpg"
     }
   ]
 }
