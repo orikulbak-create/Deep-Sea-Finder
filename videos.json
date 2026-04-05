@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 10 \u2014 Minke Whale | Deep Sea Finder",
+      "video_id": "LOfy4T98eso",
+      "url": "https://youtu.be/LOfy4T98eso",
+      "embed": "https://www.youtube.com/embed/LOfy4T98eso",
+      "date": "2026-04-05",
+      "thumbnail": "https://img.youtube.com/vi/LOfy4T98eso/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 9 \u2014 Barrel Jellyfish | Deep Sea Finder",
       "video_id": "DbeSduKgg7s",
       "url": "https://youtu.be/DbeSduKgg7s",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/b9qBHVMZD3k",
       "date": "2026-03-26",
       "thumbnail": "https://img.youtube.com/vi/b9qBHVMZD3k/maxresdefault.jpg"
-    },
-    {
-      "title": "Dungeness Crab \u2014 Deep Sea Finder",
-      "video_id": "Fxucfam0wY4",
-      "url": "https://youtu.be/Fxucfam0wY4",
-      "embed": "https://www.youtube.com/embed/Fxucfam0wY4",
-      "date": "2026-03-25",
-      "thumbnail": "https://img.youtube.com/vi/Fxucfam0wY4/maxresdefault.jpg"
     }
   ]
 }
