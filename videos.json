@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 12 \u2014 Eel | Deep Sea Finder",
+      "video_id": "TDkKUdl53mk",
+      "url": "https://youtu.be/TDkKUdl53mk",
+      "embed": "https://www.youtube.com/embed/TDkKUdl53mk",
+      "date": "2026-04-06",
+      "thumbnail": "https://img.youtube.com/vi/TDkKUdl53mk/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 11 \u2014 Eel Cleaning Station | Deep Sea Finder",
       "video_id": "n3tJBtb1Liw",
       "url": "https://youtu.be/n3tJBtb1Liw",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/i0WnVaodbI4",
       "date": "2026-03-28",
       "thumbnail": "https://img.youtube.com/vi/i0WnVaodbI4/maxresdefault.jpg"
-    },
-    {
-      "title": "Octopus \u2014 Deep Sea Finder",
-      "video_id": "5lCTImkpmmo",
-      "url": "https://youtu.be/5lCTImkpmmo",
-      "embed": "https://www.youtube.com/embed/5lCTImkpmmo",
-      "date": "2026-03-27",
-      "thumbnail": "https://img.youtube.com/vi/5lCTImkpmmo/maxresdefault.jpg"
     }
   ]
 }
