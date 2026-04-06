@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 12 \u2014 Bioluminescent Plankton | Deep Sea Finder",
+      "video_id": "uSRSI8TKXN8",
+      "url": "https://youtu.be/uSRSI8TKXN8",
+      "embed": "https://www.youtube.com/embed/uSRSI8TKXN8",
+      "date": "2026-04-06",
+      "thumbnail": "https://img.youtube.com/vi/uSRSI8TKXN8/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 13 \u2014 Moray Eel | Deep Sea Finder",
       "video_id": "VGeFS_ywHXA",
       "url": "https://youtu.be/VGeFS_ywHXA",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/aibjWt8u0ys",
       "date": "2026-03-29",
       "thumbnail": "https://img.youtube.com/vi/aibjWt8u0ys/maxresdefault.jpg"
-    },
-    {
-      "title": "Sea Spider \u2014 Deep Sea Finder",
-      "video_id": "crEPodFQG6c",
-      "url": "https://youtu.be/crEPodFQG6c",
-      "embed": "https://www.youtube.com/embed/crEPodFQG6c",
-      "date": "2026-03-28",
-      "thumbnail": "https://img.youtube.com/vi/crEPodFQG6c/maxresdefault.jpg"
     }
   ]
 }
