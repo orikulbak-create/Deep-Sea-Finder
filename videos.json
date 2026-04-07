@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 15 \u2014 Damselfish | Deep Sea Finder",
+      "video_id": "D-DUlK78o9M",
+      "url": "https://youtu.be/D-DUlK78o9M",
+      "embed": "https://www.youtube.com/embed/D-DUlK78o9M",
+      "date": "2026-04-07",
+      "thumbnail": "https://img.youtube.com/vi/D-DUlK78o9M/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 14 \u2014 Barracuda | Deep Sea Finder",
       "video_id": "yM1X0NB4iPE",
       "url": "https://youtu.be/yM1X0NB4iPE",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/e67DJKByocQ",
       "date": "2026-03-31",
       "thumbnail": "https://img.youtube.com/vi/e67DJKByocQ/maxresdefault.jpg"
-    },
-    {
-      "title": "Flatback Sea Turtle \u2014 Deep Sea Finder",
-      "video_id": "gaxPoeDGKVI",
-      "url": "https://youtu.be/gaxPoeDGKVI",
-      "embed": "https://www.youtube.com/embed/gaxPoeDGKVI",
-      "date": "2026-03-30",
-      "thumbnail": "https://img.youtube.com/vi/gaxPoeDGKVI/maxresdefault.jpg"
     }
   ]
 }
