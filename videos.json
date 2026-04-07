@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 17 \u2014 Whale | Deep Sea Finder",
+      "video_id": "d8E7uQEs8xc",
+      "url": "https://youtu.be/d8E7uQEs8xc",
+      "embed": "https://www.youtube.com/embed/d8E7uQEs8xc",
+      "date": "2026-04-07",
+      "thumbnail": "https://img.youtube.com/vi/d8E7uQEs8xc/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 16 \u2014 Whale Breaching | Deep Sea Finder",
       "video_id": "vhntCcGHbbA",
       "url": "https://youtu.be/vhntCcGHbbA",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/yfoWb_jcVS4",
       "date": "2026-04-02",
       "thumbnail": "https://img.youtube.com/vi/yfoWb_jcVS4/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 1 \u2014 Firefly Squid | Deep Sea Finder",
-      "video_id": "kks1UyX-JnQ",
-      "url": "https://youtu.be/kks1UyX-JnQ",
-      "embed": "https://www.youtube.com/embed/kks1UyX-JnQ",
-      "date": "2026-04-01",
-      "thumbnail": "https://img.youtube.com/vi/kks1UyX-JnQ/maxresdefault.jpg"
     }
   ]
 }
