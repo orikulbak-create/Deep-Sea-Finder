@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 17 \u2014 Mantis Shrimp | Deep Sea Finder",
+      "video_id": "1k-k8-ntAwM",
+      "url": "https://youtu.be/1k-k8-ntAwM",
+      "embed": "https://www.youtube.com/embed/1k-k8-ntAwM",
+      "date": "2026-04-07",
+      "thumbnail": "https://img.youtube.com/vi/1k-k8-ntAwM/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 17 \u2014 Whale | Deep Sea Finder",
       "video_id": "d8E7uQEs8xc",
       "url": "https://youtu.be/d8E7uQEs8xc",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/BGUZAYShwng",
       "date": "2026-04-02",
       "thumbnail": "https://img.youtube.com/vi/BGUZAYShwng/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 2 \u2014 Loggerhead Sea Turtle | Deep Sea Finder",
-      "video_id": "yfoWb_jcVS4",
-      "url": "https://youtu.be/yfoWb_jcVS4",
-      "embed": "https://www.youtube.com/embed/yfoWb_jcVS4",
-      "date": "2026-04-02",
-      "thumbnail": "https://img.youtube.com/vi/yfoWb_jcVS4/maxresdefault.jpg"
     }
   ]
 }
