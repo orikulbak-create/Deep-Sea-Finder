@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 16 \u2014 Whale Breaching | Deep Sea Finder",
+      "video_id": "vhntCcGHbbA",
+      "url": "https://youtu.be/vhntCcGHbbA",
+      "embed": "https://www.youtube.com/embed/vhntCcGHbbA",
+      "date": "2026-04-07",
+      "thumbnail": "https://img.youtube.com/vi/vhntCcGHbbA/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 15 \u2014 Damselfish | Deep Sea Finder",
       "video_id": "D-DUlK78o9M",
       "url": "https://youtu.be/D-DUlK78o9M",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/kks1UyX-JnQ",
       "date": "2026-04-01",
       "thumbnail": "https://img.youtube.com/vi/kks1UyX-JnQ/maxresdefault.jpg"
-    },
-    {
-      "title": "Crystal Jellyfish \u2014 Deep Sea Finder",
-      "video_id": "e67DJKByocQ",
-      "url": "https://youtu.be/e67DJKByocQ",
-      "embed": "https://www.youtube.com/embed/e67DJKByocQ",
-      "date": "2026-03-31",
-      "thumbnail": "https://img.youtube.com/vi/e67DJKByocQ/maxresdefault.jpg"
     }
   ]
 }
