@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 19 \u2014 Sperm Whale | Deep Sea Finder",
+      "video_id": "TKDcTf2j8ak",
+      "url": "https://youtu.be/TKDcTf2j8ak",
+      "embed": "https://www.youtube.com/embed/TKDcTf2j8ak",
+      "date": "2026-04-08",
+      "thumbnail": "https://img.youtube.com/vi/TKDcTf2j8ak/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 18 \u2014 Moorish Idol | Deep Sea Finder",
       "video_id": "z8rZOa502pA",
       "url": "https://youtu.be/z8rZOa502pA",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/1MHwBB1dGYI",
       "date": "2026-04-03",
       "thumbnail": "https://img.youtube.com/vi/1MHwBB1dGYI/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 4 \u2014 Remora | Deep Sea Finder",
-      "video_id": "SXlxKTEJyGk",
-      "url": "https://youtu.be/SXlxKTEJyGk",
-      "embed": "https://www.youtube.com/embed/SXlxKTEJyGk",
-      "date": "2026-04-03",
-      "thumbnail": "https://img.youtube.com/vi/SXlxKTEJyGk/maxresdefault.jpg"
     }
   ]
 }
