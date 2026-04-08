@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 18 \u2014 Moorish Idol | Deep Sea Finder",
+      "video_id": "z8rZOa502pA",
+      "url": "https://youtu.be/z8rZOa502pA",
+      "embed": "https://www.youtube.com/embed/z8rZOa502pA",
+      "date": "2026-04-08",
+      "thumbnail": "https://img.youtube.com/vi/z8rZOa502pA/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 17 \u2014 Mantis Shrimp | Deep Sea Finder",
       "video_id": "1k-k8-ntAwM",
       "url": "https://youtu.be/1k-k8-ntAwM",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/SXlxKTEJyGk",
       "date": "2026-04-03",
       "thumbnail": "https://img.youtube.com/vi/SXlxKTEJyGk/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 3 \u2014 Fire Coral | Deep Sea Finder",
-      "video_id": "BGUZAYShwng",
-      "url": "https://youtu.be/BGUZAYShwng",
-      "embed": "https://www.youtube.com/embed/BGUZAYShwng",
-      "date": "2026-04-02",
-      "thumbnail": "https://img.youtube.com/vi/BGUZAYShwng/maxresdefault.jpg"
     }
   ]
 }
