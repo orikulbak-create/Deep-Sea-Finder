@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 24 \u2014 Fin Whale | Deep Sea Finder",
+      "video_id": "s4BqeCwRAfw",
+      "url": "https://youtu.be/s4BqeCwRAfw",
+      "embed": "https://www.youtube.com/embed/s4BqeCwRAfw",
+      "date": "2026-04-10",
+      "thumbnail": "https://img.youtube.com/vi/s4BqeCwRAfw/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 23 \u2014 Bobtail Squid | Deep Sea Finder",
       "video_id": "BdxujroufsE",
       "url": "https://youtu.be/BdxujroufsE",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/DbeSduKgg7s",
       "date": "2026-04-04",
       "thumbnail": "https://img.youtube.com/vi/DbeSduKgg7s/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 8 \u2014 Siphonophore | Deep Sea Finder",
-      "video_id": "V01eDvwLP4U",
-      "url": "https://youtu.be/V01eDvwLP4U",
-      "embed": "https://www.youtube.com/embed/V01eDvwLP4U",
-      "date": "2026-04-04",
-      "thumbnail": "https://img.youtube.com/vi/V01eDvwLP4U/maxresdefault.jpg"
     }
   ]
 }
