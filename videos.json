@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 23 \u2014 Bobtail Squid | Deep Sea Finder",
+      "video_id": "BdxujroufsE",
+      "url": "https://youtu.be/BdxujroufsE",
+      "embed": "https://www.youtube.com/embed/BdxujroufsE",
+      "date": "2026-04-10",
+      "thumbnail": "https://img.youtube.com/vi/BdxujroufsE/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 22 \u2014 Spinner Dolphin | Deep Sea Finder",
       "video_id": "kwku-bFNq1o",
       "url": "https://youtu.be/kwku-bFNq1o",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/V01eDvwLP4U",
       "date": "2026-04-04",
       "thumbnail": "https://img.youtube.com/vi/V01eDvwLP4U/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 7 \u2014 Giant Clam | Deep Sea Finder",
-      "video_id": "xh-JdWgcEXY",
-      "url": "https://youtu.be/xh-JdWgcEXY",
-      "embed": "https://www.youtube.com/embed/xh-JdWgcEXY",
-      "date": "2026-04-04",
-      "thumbnail": "https://img.youtube.com/vi/xh-JdWgcEXY/maxresdefault.jpg"
     }
   ]
 }
