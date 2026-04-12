@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 26 \u2014 Olive Ridley Sea Turtle | Deep Sea Finder",
+      "video_id": "lFR1-1LxUxk",
+      "url": "https://youtu.be/lFR1-1LxUxk",
+      "embed": "https://www.youtube.com/embed/lFR1-1LxUxk",
+      "date": "2026-04-12",
+      "thumbnail": "https://img.youtube.com/vi/lFR1-1LxUxk/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 25 \u2014 Sea Slug | Deep Sea Finder",
       "video_id": "qZS1Cc5rEV0",
       "url": "https://youtu.be/qZS1Cc5rEV0",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/Acz7fvpPx3k",
       "date": "2026-04-05",
       "thumbnail": "https://img.youtube.com/vi/Acz7fvpPx3k/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 10 \u2014 Minke Whale | Deep Sea Finder",
-      "video_id": "LOfy4T98eso",
-      "url": "https://youtu.be/LOfy4T98eso",
-      "embed": "https://www.youtube.com/embed/LOfy4T98eso",
-      "date": "2026-04-05",
-      "thumbnail": "https://img.youtube.com/vi/LOfy4T98eso/maxresdefault.jpg"
     }
   ]
 }
