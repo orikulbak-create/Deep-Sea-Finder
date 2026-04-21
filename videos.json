@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 32 \u2014 Boxfish | Deep Sea Finder",
+      "video_id": "GwhbD_AjhyQ",
+      "url": "https://youtu.be/GwhbD_AjhyQ",
+      "embed": "https://www.youtube.com/embed/GwhbD_AjhyQ",
+      "date": "2026-04-21",
+      "thumbnail": "https://img.youtube.com/vi/GwhbD_AjhyQ/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 31 \u2014 Whale Fall Ecosystem | Deep Sea Finder",
       "video_id": "qYVqpFNvs30",
       "url": "https://youtu.be/qYVqpFNvs30",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/uSRSI8TKXN8",
       "date": "2026-04-06",
       "thumbnail": "https://img.youtube.com/vi/uSRSI8TKXN8/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 13 \u2014 Moray Eel | Deep Sea Finder",
-      "video_id": "VGeFS_ywHXA",
-      "url": "https://youtu.be/VGeFS_ywHXA",
-      "embed": "https://www.youtube.com/embed/VGeFS_ywHXA",
-      "date": "2026-04-06",
-      "thumbnail": "https://img.youtube.com/vi/VGeFS_ywHXA/maxresdefault.jpg"
     }
   ]
 }
