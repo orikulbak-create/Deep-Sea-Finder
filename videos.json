@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 33 \u2014 Leafy Sea Dragon | Deep Sea Finder",
+      "video_id": "6WuI2xNOIGU",
+      "url": "https://youtu.be/6WuI2xNOIGU",
+      "embed": "https://www.youtube.com/embed/6WuI2xNOIGU",
+      "date": "2026-04-21",
+      "thumbnail": "https://img.youtube.com/vi/6WuI2xNOIGU/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 32 \u2014 Boxfish | Deep Sea Finder",
       "video_id": "GwhbD_AjhyQ",
       "url": "https://youtu.be/GwhbD_AjhyQ",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/7gQtBM5noKY",
       "date": "2026-04-06",
       "thumbnail": "https://img.youtube.com/vi/7gQtBM5noKY/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 12 \u2014 Bioluminescent Plankton | Deep Sea Finder",
-      "video_id": "uSRSI8TKXN8",
-      "url": "https://youtu.be/uSRSI8TKXN8",
-      "embed": "https://www.youtube.com/embed/uSRSI8TKXN8",
-      "date": "2026-04-06",
-      "thumbnail": "https://img.youtube.com/vi/uSRSI8TKXN8/maxresdefault.jpg"
     }
   ]
 }
