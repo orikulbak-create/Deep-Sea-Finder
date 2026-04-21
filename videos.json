@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 29 \u2014 Humpback Whale | Deep Sea Finder",
+      "video_id": "tlQSN4OuZ3M",
+      "url": "https://youtu.be/tlQSN4OuZ3M",
+      "embed": "https://www.youtube.com/embed/tlQSN4OuZ3M",
+      "date": "2026-04-21",
+      "thumbnail": "https://img.youtube.com/vi/tlQSN4OuZ3M/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 33 \u2014 Leafy Sea Dragon | Deep Sea Finder",
       "video_id": "6WuI2xNOIGU",
       "url": "https://youtu.be/6WuI2xNOIGU",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/yM1X0NB4iPE",
       "date": "2026-04-06",
       "thumbnail": "https://img.youtube.com/vi/yM1X0NB4iPE/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 13 \u2014 Coconut Crab | Deep Sea Finder",
-      "video_id": "7gQtBM5noKY",
-      "url": "https://youtu.be/7gQtBM5noKY",
-      "embed": "https://www.youtube.com/embed/7gQtBM5noKY",
-      "date": "2026-04-06",
-      "thumbnail": "https://img.youtube.com/vi/7gQtBM5noKY/maxresdefault.jpg"
     }
   ]
 }
