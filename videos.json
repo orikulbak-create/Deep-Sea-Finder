@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 32 \u2014 Giant Squid | Deep Sea Finder",
+      "video_id": "pAaNCC1we3I",
+      "url": "https://youtu.be/pAaNCC1we3I",
+      "embed": "https://www.youtube.com/embed/pAaNCC1we3I",
+      "date": "2026-04-23",
+      "thumbnail": "https://img.youtube.com/vi/pAaNCC1we3I/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 31 \u2014 Black Swallower | Deep Sea Finder",
       "video_id": "2rUTX2IEKeY",
       "url": "https://youtu.be/2rUTX2IEKeY",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/d8E7uQEs8xc",
       "date": "2026-04-07",
       "thumbnail": "https://img.youtube.com/vi/d8E7uQEs8xc/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 16 \u2014 Whale Breaching | Deep Sea Finder",
-      "video_id": "vhntCcGHbbA",
-      "url": "https://youtu.be/vhntCcGHbbA",
-      "embed": "https://www.youtube.com/embed/vhntCcGHbbA",
-      "date": "2026-04-07",
-      "thumbnail": "https://img.youtube.com/vi/vhntCcGHbbA/maxresdefault.jpg"
     }
   ]
 }
