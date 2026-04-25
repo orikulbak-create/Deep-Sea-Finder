@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 34 \u2014 Ribbon Eel | Deep Sea Finder",
+      "video_id": "GcZ-C9h7S14",
+      "url": "https://youtu.be/GcZ-C9h7S14",
+      "embed": "https://www.youtube.com/embed/GcZ-C9h7S14",
+      "date": "2026-04-25",
+      "thumbnail": "https://img.youtube.com/vi/GcZ-C9h7S14/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 33 \u2014 Giant Squid | Deep Sea Finder",
       "video_id": "A6g1unknvBQ",
       "url": "https://youtu.be/A6g1unknvBQ",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/z8rZOa502pA",
       "date": "2026-04-08",
       "thumbnail": "https://img.youtube.com/vi/z8rZOa502pA/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 17 \u2014 Mantis Shrimp | Deep Sea Finder",
-      "video_id": "1k-k8-ntAwM",
-      "url": "https://youtu.be/1k-k8-ntAwM",
-      "embed": "https://www.youtube.com/embed/1k-k8-ntAwM",
-      "date": "2026-04-07",
-      "thumbnail": "https://img.youtube.com/vi/1k-k8-ntAwM/maxresdefault.jpg"
     }
   ]
 }
