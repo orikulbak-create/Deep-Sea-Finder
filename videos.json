@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 35 \u2014 Dragonfish | Deep Sea Finder",
+      "video_id": "0de2dtCmNok",
+      "url": "https://youtu.be/0de2dtCmNok",
+      "embed": "https://www.youtube.com/embed/0de2dtCmNok",
+      "date": "2026-04-25",
+      "thumbnail": "https://img.youtube.com/vi/0de2dtCmNok/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 34 \u2014 Ribbon Eel | Deep Sea Finder",
       "video_id": "GcZ-C9h7S14",
       "url": "https://youtu.be/GcZ-C9h7S14",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/TKDcTf2j8ak",
       "date": "2026-04-08",
       "thumbnail": "https://img.youtube.com/vi/TKDcTf2j8ak/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 18 \u2014 Moorish Idol | Deep Sea Finder",
-      "video_id": "z8rZOa502pA",
-      "url": "https://youtu.be/z8rZOa502pA",
-      "embed": "https://www.youtube.com/embed/z8rZOa502pA",
-      "date": "2026-04-08",
-      "thumbnail": "https://img.youtube.com/vi/z8rZOa502pA/maxresdefault.jpg"
     }
   ]
 }
