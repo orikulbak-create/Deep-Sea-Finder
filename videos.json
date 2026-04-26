@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 36 \u2014 Leafy Scorpionfish | Deep Sea Finder",
+      "video_id": "6lWuEGJarJI",
+      "url": "https://youtu.be/6lWuEGJarJI",
+      "embed": "https://www.youtube.com/embed/6lWuEGJarJI",
+      "date": "2026-04-26",
+      "thumbnail": "https://img.youtube.com/vi/6lWuEGJarJI/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 35 \u2014 Dragonfish | Deep Sea Finder",
       "video_id": "0de2dtCmNok",
       "url": "https://youtu.be/0de2dtCmNok",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/FdEBvw1s7nw",
       "date": "2026-04-09",
       "thumbnail": "https://img.youtube.com/vi/FdEBvw1s7nw/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 19 \u2014 Sperm Whale | Deep Sea Finder",
-      "video_id": "TKDcTf2j8ak",
-      "url": "https://youtu.be/TKDcTf2j8ak",
-      "embed": "https://www.youtube.com/embed/TKDcTf2j8ak",
-      "date": "2026-04-08",
-      "thumbnail": "https://img.youtube.com/vi/TKDcTf2j8ak/maxresdefault.jpg"
     }
   ]
 }
