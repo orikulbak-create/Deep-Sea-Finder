@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 37 \u2014 Stoplight Loosejaw | Deep Sea Finder",
+      "video_id": "38v4cdMv3rM",
+      "url": "https://youtu.be/38v4cdMv3rM",
+      "embed": "https://www.youtube.com/embed/38v4cdMv3rM",
+      "date": "2026-04-27",
+      "thumbnail": "https://img.youtube.com/vi/38v4cdMv3rM/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 36 \u2014 Leafy Scorpionfish | Deep Sea Finder",
       "video_id": "6lWuEGJarJI",
       "url": "https://youtu.be/6lWuEGJarJI",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/kwku-bFNq1o",
       "date": "2026-04-10",
       "thumbnail": "https://img.youtube.com/vi/kwku-bFNq1o/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 21 \u2014 Cuttlefish | Deep Sea Finder",
-      "video_id": "FdEBvw1s7nw",
-      "url": "https://youtu.be/FdEBvw1s7nw",
-      "embed": "https://www.youtube.com/embed/FdEBvw1s7nw",
-      "date": "2026-04-09",
-      "thumbnail": "https://img.youtube.com/vi/FdEBvw1s7nw/maxresdefault.jpg"
     }
   ]
 }
