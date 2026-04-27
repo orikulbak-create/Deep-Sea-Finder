@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 38 \u2014 Orca | Deep Sea Finder",
+      "video_id": "xVhXMvZVEi8",
+      "url": "https://youtu.be/xVhXMvZVEi8",
+      "embed": "https://www.youtube.com/embed/xVhXMvZVEi8",
+      "date": "2026-04-27",
+      "thumbnail": "https://img.youtube.com/vi/xVhXMvZVEi8/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 37 \u2014 Stoplight Loosejaw | Deep Sea Finder",
       "video_id": "38v4cdMv3rM",
       "url": "https://youtu.be/38v4cdMv3rM",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/BdxujroufsE",
       "date": "2026-04-10",
       "thumbnail": "https://img.youtube.com/vi/BdxujroufsE/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 22 \u2014 Spinner Dolphin | Deep Sea Finder",
-      "video_id": "kwku-bFNq1o",
-      "url": "https://youtu.be/kwku-bFNq1o",
-      "embed": "https://www.youtube.com/embed/kwku-bFNq1o",
-      "date": "2026-04-10",
-      "thumbnail": "https://img.youtube.com/vi/kwku-bFNq1o/maxresdefault.jpg"
     }
   ]
 }
