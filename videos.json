@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 41 \u2014 Feather Star | Deep Sea Finder",
+      "video_id": "N1Ld31sUzf8",
+      "url": "https://youtu.be/N1Ld31sUzf8",
+      "embed": "https://www.youtube.com/embed/N1Ld31sUzf8",
+      "date": "2026-04-30",
+      "thumbnail": "https://img.youtube.com/vi/N1Ld31sUzf8/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 40 \u2014 Great White Shark | Deep Sea Finder",
       "video_id": "hTJAU_xxy50",
       "url": "https://youtu.be/hTJAU_xxy50",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/lFR1-1LxUxk",
       "date": "2026-04-12",
       "thumbnail": "https://img.youtube.com/vi/lFR1-1LxUxk/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 25 \u2014 Sea Slug | Deep Sea Finder",
-      "video_id": "qZS1Cc5rEV0",
-      "url": "https://youtu.be/qZS1Cc5rEV0",
-      "embed": "https://www.youtube.com/embed/qZS1Cc5rEV0",
-      "date": "2026-04-11",
-      "thumbnail": "https://img.youtube.com/vi/qZS1Cc5rEV0/maxresdefault.jpg"
     }
   ]
 }
