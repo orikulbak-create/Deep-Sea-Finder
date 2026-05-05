@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 43 \u2014 Sea Nettle Jellyfish | Deep Sea Finder",
+      "video_id": "xER8SNqpIyQ",
+      "url": "https://youtu.be/xER8SNqpIyQ",
+      "embed": "https://www.youtube.com/embed/xER8SNqpIyQ",
+      "date": "2026-05-05",
+      "thumbnail": "https://img.youtube.com/vi/xER8SNqpIyQ/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 41 \u2014 Feather Star | Deep Sea Finder",
       "video_id": "N1Ld31sUzf8",
       "url": "https://youtu.be/N1Ld31sUzf8",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/dnCii-uNdMw",
       "date": "2026-04-15",
       "thumbnail": "https://img.youtube.com/vi/dnCii-uNdMw/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 26 \u2014 Olive Ridley Sea Turtle | Deep Sea Finder",
-      "video_id": "lFR1-1LxUxk",
-      "url": "https://youtu.be/lFR1-1LxUxk",
-      "embed": "https://www.youtube.com/embed/lFR1-1LxUxk",
-      "date": "2026-04-12",
-      "thumbnail": "https://img.youtube.com/vi/lFR1-1LxUxk/maxresdefault.jpg"
     }
   ]
 }
