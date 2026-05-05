@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 44 \u2014 Flying Gurnard | Deep Sea Finder",
+      "video_id": "6SLtZ56iElM",
+      "url": "https://youtu.be/6SLtZ56iElM",
+      "embed": "https://www.youtube.com/embed/6SLtZ56iElM",
+      "date": "2026-05-05",
+      "thumbnail": "https://img.youtube.com/vi/6SLtZ56iElM/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 43 \u2014 Sea Nettle Jellyfish | Deep Sea Finder",
       "video_id": "xER8SNqpIyQ",
       "url": "https://youtu.be/xER8SNqpIyQ",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/njLjQmjYiXU",
       "date": "2026-04-16",
       "thumbnail": "https://img.youtube.com/vi/njLjQmjYiXU/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 27 \u2014 Common Dolphin | Deep Sea Finder",
-      "video_id": "dnCii-uNdMw",
-      "url": "https://youtu.be/dnCii-uNdMw",
-      "embed": "https://www.youtube.com/embed/dnCii-uNdMw",
-      "date": "2026-04-15",
-      "thumbnail": "https://img.youtube.com/vi/dnCii-uNdMw/maxresdefault.jpg"
     }
   ]
 }
