@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 45 \u2014 Crown Of Thorns Starfish | Deep Sea Finder",
+      "video_id": "SjtoDB1rp8w",
+      "url": "https://youtu.be/SjtoDB1rp8w",
+      "embed": "https://www.youtube.com/embed/SjtoDB1rp8w",
+      "date": "2026-05-06",
+      "thumbnail": "https://img.youtube.com/vi/SjtoDB1rp8w/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 44 \u2014 Flying Gurnard | Deep Sea Finder",
       "video_id": "6SLtZ56iElM",
       "url": "https://youtu.be/6SLtZ56iElM",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/WO-MqR_C7MA",
       "date": "2026-04-20",
       "thumbnail": "https://img.youtube.com/vi/WO-MqR_C7MA/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 28 \u2014 Sawshark | Deep Sea Finder",
-      "video_id": "njLjQmjYiXU",
-      "url": "https://youtu.be/njLjQmjYiXU",
-      "embed": "https://www.youtube.com/embed/njLjQmjYiXU",
-      "date": "2026-04-16",
-      "thumbnail": "https://img.youtube.com/vi/njLjQmjYiXU/maxresdefault.jpg"
     }
   ]
 }
