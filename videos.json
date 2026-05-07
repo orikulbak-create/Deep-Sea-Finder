@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 47 \u2014 Mimic Octopus | Deep Sea Finder",
+      "video_id": "MJeFaWtEuKo",
+      "url": "https://youtu.be/MJeFaWtEuKo",
+      "embed": "https://www.youtube.com/embed/MJeFaWtEuKo",
+      "date": "2026-05-07",
+      "thumbnail": "https://img.youtube.com/vi/MJeFaWtEuKo/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 46 \u2014 Gulper Eel | Deep Sea Finder",
       "video_id": "S_OKpvhNDJc",
       "url": "https://youtu.be/S_OKpvhNDJc",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/GwhbD_AjhyQ",
       "date": "2026-04-21",
       "thumbnail": "https://img.youtube.com/vi/GwhbD_AjhyQ/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 31 \u2014 Whale Fall Ecosystem | Deep Sea Finder",
-      "video_id": "qYVqpFNvs30",
-      "url": "https://youtu.be/qYVqpFNvs30",
-      "embed": "https://www.youtube.com/embed/qYVqpFNvs30",
-      "date": "2026-04-20",
-      "thumbnail": "https://img.youtube.com/vi/qYVqpFNvs30/maxresdefault.jpg"
     }
   ]
 }
