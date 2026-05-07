@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 48 \u2014 Yeti Crab | Deep Sea Finder",
+      "video_id": "9dmjeLmXbL8",
+      "url": "https://youtu.be/9dmjeLmXbL8",
+      "embed": "https://www.youtube.com/embed/9dmjeLmXbL8",
+      "date": "2026-05-07",
+      "thumbnail": "https://img.youtube.com/vi/9dmjeLmXbL8/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 47 \u2014 Mimic Octopus | Deep Sea Finder",
       "video_id": "MJeFaWtEuKo",
       "url": "https://youtu.be/MJeFaWtEuKo",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/6WuI2xNOIGU",
       "date": "2026-04-21",
       "thumbnail": "https://img.youtube.com/vi/6WuI2xNOIGU/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 32 \u2014 Boxfish | Deep Sea Finder",
-      "video_id": "GwhbD_AjhyQ",
-      "url": "https://youtu.be/GwhbD_AjhyQ",
-      "embed": "https://www.youtube.com/embed/GwhbD_AjhyQ",
-      "date": "2026-04-21",
-      "thumbnail": "https://img.youtube.com/vi/GwhbD_AjhyQ/maxresdefault.jpg"
     }
   ]
 }
