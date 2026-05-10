@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 49 \u2014 Nudibranchs | Deep Sea Finder",
+      "video_id": "kXnW39FaBSk",
+      "url": "https://youtu.be/kXnW39FaBSk",
+      "embed": "https://www.youtube.com/embed/kXnW39FaBSk",
+      "date": "2026-05-10",
+      "thumbnail": "https://img.youtube.com/vi/kXnW39FaBSk/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 48 \u2014 Yeti Crab | Deep Sea Finder",
       "video_id": "9dmjeLmXbL8",
       "url": "https://youtu.be/9dmjeLmXbL8",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/tlQSN4OuZ3M",
       "date": "2026-04-21",
       "thumbnail": "https://img.youtube.com/vi/tlQSN4OuZ3M/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 33 \u2014 Leafy Sea Dragon | Deep Sea Finder",
-      "video_id": "6WuI2xNOIGU",
-      "url": "https://youtu.be/6WuI2xNOIGU",
-      "embed": "https://www.youtube.com/embed/6WuI2xNOIGU",
-      "date": "2026-04-21",
-      "thumbnail": "https://img.youtube.com/vi/6WuI2xNOIGU/maxresdefault.jpg"
     }
   ]
 }
