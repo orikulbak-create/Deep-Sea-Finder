@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "title": "Deep Sea Creatures Ep. 52 \u2014 Tasselled Wobbegong | Deep Sea Finder",
+      "video_id": "ioAamSpYOPo",
+      "url": "https://youtu.be/ioAamSpYOPo",
+      "embed": "https://www.youtube.com/embed/ioAamSpYOPo",
+      "date": "2026-05-11",
+      "thumbnail": "https://img.youtube.com/vi/ioAamSpYOPo/maxresdefault.jpg"
+    },
+    {
       "title": "Deep Sea Creatures Ep. 51 \u2014 Dragonfish | Deep Sea Finder",
       "video_id": "Ba36hK7bHIw",
       "url": "https://youtu.be/Ba36hK7bHIw",
@@ -151,14 +159,6 @@
       "embed": "https://www.youtube.com/embed/pAaNCC1we3I",
       "date": "2026-04-23",
       "thumbnail": "https://img.youtube.com/vi/pAaNCC1we3I/maxresdefault.jpg"
-    },
-    {
-      "title": "Deep Sea Creatures Ep. 31 \u2014 Black Swallower | Deep Sea Finder",
-      "video_id": "2rUTX2IEKeY",
-      "url": "https://youtu.be/2rUTX2IEKeY",
-      "embed": "https://www.youtube.com/embed/2rUTX2IEKeY",
-      "date": "2026-04-22",
-      "thumbnail": "https://img.youtube.com/vi/2rUTX2IEKeY/maxresdefault.jpg"
     }
   ]
 }
